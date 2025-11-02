@@ -1,0 +1,28 @@
+{
+  "features": [
+    "model_year",
+    "milage",
+    "brand",
+    "model",
+    "fuel_type",
+    "engine",
+    "transmission",
+    "ext_col",
+    "int_col",
+    "accident",
+    "clean_title"
+  ],
+  "dtypes": {
+    "model_year": "int64",
+    "milage": "int64",
+    "brand": "object",
+    "model": "object",
+    "fuel_type": "object",
+    "engine": "object",
+    "transmission": "object",
+    "ext_col": "object",
+    "int_col": "object",
+    "accident": "object",
+    "clean_title": "object"
+  }
+}
